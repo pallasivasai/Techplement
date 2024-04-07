@@ -26,3 +26,6 @@ This is a Java program that enables users to manage and convert currencies. User
 3. Update Favorite Currency
 4. Convert Currency
 5. Exit
+
+## Working video
+ Video_link(https://www.linkedin.com/posts/p-siva-sai-10686417a_internshipsuccess-professionalgrowth-teamwork-activity-7182671591728726016-12nP?utm_source=share&utm_medium=member_desktop)
